@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153.1 238.1">
+  <rect width="153.1" height="238.1" fill="#e02020"/>
+  <rect x="7" y="6.1" width="139" height="225.9" rx="10" fill="#fdf6e4"/>
+  <rect x="7" y="6.1" width="139" height="225.9" rx="10" fill="none" stroke="#1a1a1a" stroke-width="1.6"/>
+  <rect x="14" y="13" width="125" height="212" rx="6" fill="none" stroke="#e02020" stroke-width="2.4"/>
+
+  <text x="76.5" y="44" text-anchor="middle" font-family="system-ui,'Malgun Gothic',sans-serif"
+        font-size="20" font-weight="800" fill="#c9971f">폭탄</text>
+
+  <!-- 폭탄 -->
+  <g transform="translate(74 136)">
+    <circle cx="0" cy="8" r="38" fill="#1f1f1f"/>
+    <circle cx="-14" cy="-5" r="10" fill="#565656" opacity="0.8"/>
+    <rect x="-10" y="-46" width="20" height="13" rx="3" fill="#3a3a3a"/>
+    <path d="M5 -43 C 22 -54, 26 -66, 17 -74" stroke="#8a6a3a" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <g transform="translate(18 -78)">
+      <path d="M0 -13 L4.5 -4 L14 -3 L6 3.5 L9 13 L0 8 L-9 13 L-6 3.5 L-14 -3 L-4.5 -4Z" fill="#f5a623"/>
+      <path d="M0 -7 L2.5 -2 L8 -2 L3.5 1.5 L5 8 L0 4.5 L-5 8 L-3.5 1.5 L-8 -2 L-2.5 -2Z" fill="#ffe066"/>
+    </g>
+  </g>
+
+  <text x="76.5" y="214" text-anchor="middle" font-family="system-ui,'Malgun Gothic',sans-serif"
+        font-size="24" font-weight="800" fill="#1a1a1a">젖히기</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153.1 238.1">
+  <rect width="153.1" height="238.1" fill="#e02020"/>
+  <rect x="7" y="6.1" width="139" height="225.9" rx="10" fill="#fdf6e4"/>
+  <rect x="7" y="6.1" width="139" height="225.9" rx="10" fill="none" stroke="#1a1a1a" stroke-width="1.6"/>
+  <rect x="14" y="13" width="125" height="212" rx="6" fill="none" stroke="#e02020" stroke-width="2.4"/>
+  <text x="76.5" y="152" text-anchor="middle" font-family="system-ui,'Malgun Gothic',sans-serif"
+        font-size="112" font-weight="800" fill="#e02020" stroke="#1a1a1a" stroke-width="3">2</text>
+  <text x="76.5" y="192" text-anchor="middle" font-family="system-ui,'Malgun Gothic',sans-serif"
+        font-size="30" font-weight="800" fill="#1a1a1a">피</text>
+  <g fill="#2e7d4f">
+    <ellipse cx="40" cy="52" rx="15" ry="8" transform="rotate(-28 40 52)"/>
+    <ellipse cx="113" cy="52" rx="15" ry="8" transform="rotate(28 113 52)"/>
+    <ellipse cx="40" cy="190" rx="15" ry="8" transform="rotate(28 40 190)"/>
+    <ellipse cx="113" cy="190" rx="15" ry="8" transform="rotate(-28 113 190)"/>
+  </g>
+  <text x="76.5" y="46" text-anchor="middle" font-family="system-ui,'Malgun Gothic',sans-serif"
+        font-size="19" font-weight="800" fill="#c9971f">보너스</text>
+</svg>
